@@ -5,6 +5,7 @@
     Forename: <input type= "text" name ="forename"><br>
     Surname: <input type="text" name = "surname"><br>
     House: <input type="text" name = "House"><br>
+    Year Group: <input type="number" name="yeargroup"><br> 
     Balance: <input type="text" name = "Balance"><br>
     Password: <input type="text" name = "Password"><br> 
     Role: 
